@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    background-color: darkmagenta;
+}
+
+h1{
+    color: yellow;
+}
+
+img{
+    width: 66px;
+    height: 66px;
+}
+
+header{
+    background-color: #96B62E;
+}
+
+main img{
+    width: 130px;
+    height: 120px;
+}
+
+footer{
+    background-color: #96B62E;
+    border: solid 5px #96B62E;
+}
+
+footer p{
+    background-color: #FFF6F6;
+    border: solid 10px #FFF6F6;
+}
+
+
+
